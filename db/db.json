@@ -13,10 +13,10 @@
     {"id": 11, "owner": "ASHA SADIK", "location": "Diani Beach Block/100", "area": "220 acress", "value": "500,000","Area":"Kwale Municipality"},
     {"id": 12, "owner": "MWANAPILI MOHAMED", "location": "Shimoni/130", "area": "0.5 acress", "value": "300,000","Area":"Kwale Municipality"},
     {"id": 13, "owner": "MATANO ALI ", "location": "Diani Beach Block/630", "area": "25 acress", "value": "1,200,000","Area":"Kwale Municipality"},
-    {"id": 13, "owner": "MWANASHA HEMED", "location": "Diani Beach Block/838", "area": "50 acress", "value": "1,000,000","Area":"Kwale Municipality"},
-    {"id": 14, "owner": "ESTHER NDINDA", "location": "Ukunda/425", "area": "400 acress", "value": "2,000,000","Area":"Kwale Municipality"},
-    {"id": 15, "owner": "SUDI BAKARI", "location": "Ukunda/777", "area": "75 acress", "value": "12,000,000","Area":"Kwale Municipality"},
-    {"id": 16, "owner": "MAENDELEO OMAR", "location": "Kwale/333", "area": "14 acress", "value": "6,000,000","Area":"Kwale Municipality"},
-    {"id": 17, "owner": "RASHIDI HAMISI ", "location": "Kwale/656", "area": "43 acress", "value": "15,000,000","Area":"Kwale Municipality"}
+    {"id": 14, "owner": "MWANASHA HEMED", "location": "Diani Beach Block/838", "area": "50 acress", "value": "1,000,000","Area":"Kwale Municipality"},
+    {"id": 15, "owner": "ESTHER NDINDA", "location": "Ukunda/425", "area": "400 acress", "value": "2,000,000","Area":"Kwale Municipality"},
+    {"id": 16, "owner": "SUDI BAKARI", "location": "Ukunda/777", "area": "75 acress", "value": "12,000,000","Area":"Kwale Municipality"},
+    {"id": 17, "owner": "MAENDELEO OMAR", "location": "Kwale/333", "area": "14 acress", "value": "6,000,000","Area":"Kwale Municipality"},
+    {"id": 18, "owner": "RASHIDI HAMISI ", "location": "Kwale/656", "area": "43 acress", "value": "15,000,000","Area":"Kwale Municipality"}
   ]
 }
