@@ -1,8 +1,8 @@
 {
-  "parcels": [
-    { "id": 1, "owner": "Abdulaziz  Hassan", "location": "Ukunda/85", "area": "3 acres", "value": "1,000,000","Area":"Kwale Municipality" },
-    { "id": 2, "owner": "Juma Kongo", "location": "Ukunda/40", "area": "2 acres", "value": "700,000", "Area":"Kwale Municipality"},
-    { "id": 3, "owner": "Mariam Majaliwa", "location": "Shimoni/30", "area": "20 acress", "value": "20,000,000","Area":"Kwale Municipality" },
+ "parcels": [
+    {"id": 1, "owner": "Abdulaziz  Hassan", "location": "Ukunda/85", "area": "3 acres", "value": "1,000,000","Area":"Kwale Municipality"},
+    {"id": 2, "owner": "Juma Kongo", "location": "Ukunda/40", "area": "2 acres", "value": "700,000", "Area":"Kwale Municipality"},
+    {"id": 3, "owner": "Mariam Majaliwa", "location": "Shimoni/30", "area": "20 acress", "value": "20,000,000","Area":"Kwale Municipality"},
     {"id": 4, "owner": "MUMBO JIMMY", "location": "Diani Beach Block/30", "area": "40 acress", "value": "1,000,000","Area":"Kwale Municipality"},
     {"id": 5, "owner": "MWAKA TSUMA ", "location": "Ukunda/535", "area": "65 acress", "value": "2,000,000","Area":"Kwale Municipality"},
     {"id": 6, "owner": "HAMISI SHABANI", "location": "Shimoni/68", "area": "1.5 acress", "value": "11,000,000","Area":"Kwale Municipality"},
